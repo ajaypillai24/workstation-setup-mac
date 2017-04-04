@@ -62,4 +62,3 @@ banner "Configuring Startup Applications"
 configure_startup_applications
 
 banner "WORKSTATION SETUP IS COMPLETE"
-

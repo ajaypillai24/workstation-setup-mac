@@ -293,7 +293,6 @@ $ cp .inputrc ~/.inputrc
 
 ### Utilities
 
-* 1Password
 * Flycut
 * iTerm 2
 * Jiggler
